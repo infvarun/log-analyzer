@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+neo4j
+pyvis
+scikit-learn
+tqdm
+python-dotenv
